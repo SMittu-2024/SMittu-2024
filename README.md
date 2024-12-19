@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, 👋 My name is Shruti Mittu
 
+**About Me:**
+
+I am from India and currently located in Montreal, Canada.
 
 - 🔭 I’m currently working on **Upwork freelancing**
 - 🌱 I’m currently learning **Software Testing Udemy courses**
