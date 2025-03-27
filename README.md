@@ -6,7 +6,7 @@ I am from India and currently located in Montreal, Canada.
 
 - 🔭 I’m currently working on **Upwork freelancing**
 - 🌱 I’m currently learning **Software Testing Udemy courses**
-- 👯 I’m looking to collaborate on **Quality Assurance assigments/projects**
+- 👯 I’m looking to collaborate on **Quality Assurance assignments/projects**
 - 💬 Ask me about **Software Testing** 
 - 📫 How to reach me: shruti.mittu@gmail.com
 - 😄 Pronouns: **She/Her**
