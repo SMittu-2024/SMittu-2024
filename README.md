@@ -2,7 +2,7 @@
 
 **About Me:**
 
-I am from India and currently located in Montreal, Canada.
+I am from India and currently located in Ghaziabad, UP.
 
 - 🔭 I’m currently working on **Upwork freelancing**
 - 🌱 I’m currently learning **Software Testing Udemy courses**
